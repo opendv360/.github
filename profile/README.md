@@ -1,12 +1,10 @@
 # OpenDV
-**Learn hardware design verification**
+**Learn Design Verification the simple way**
 --------------------------------------
 
 OpenDV is your comprehensive educational platform for learning hardware design verification. Whether you are a student taking your first verification course or an engineer transitioning into verification roles, we provide the structured learning path you need to succeed.
 
 ![UVM Testbench](http://opendv.net/wp-content/uploads/2025/06/UVM-testbench-1-1024x576.png)
-
-![UVM Testbench](https://opendv.net/wp-content/uploads/2025/06/UVM-testbench-2-scaled.png)
 
 #### Testbench architecture
 
